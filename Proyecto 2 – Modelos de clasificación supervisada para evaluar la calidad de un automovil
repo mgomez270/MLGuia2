@@ -1,0 +1,39 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyPEhMpxA40W6xgbVeIUkXbD",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/mgomez270/MLGuia2/blob/main/Proyecto%202%20%E2%80%93%20Modelos%20de%20clasificaci%C3%B3n%20supervisada%20para%20evaluar%20la%20calidad%20de%20un%20automovil\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "VDsJo1UVnzdb"
+      },
+      "outputs": [],
+      "source": []
+    }
+  ]
+}
